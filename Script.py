@@ -1,10 +1,10 @@
 class script(object):  
-    START_TXT = """<>✨ Hᴇʟʟᴏ {user}.
+    START_TXT = """✨ Hᴇʟʟᴏ {user}.
 
 Mʏ Nᴀᴍᴇ Is {bot}.
 
-I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ & Series Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Oʀ Jᴏɪɴ Oᴜʀ Gʀᴏᴜᴘ
-you can search movies here also</b>"""    
+I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ & Series Fᴏʀ Yᴏᴜ - Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Oʀ Jᴏɪɴ Oᴜʀ Gʀᴏᴜᴘ
+& you can search movies here also</b>"""    
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
@@ -12,7 +12,7 @@ you can search movies here also</b>"""
 ✯ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
 ✯ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
-✯ Mʏ Vᴇʀꜱɪᴏɴ: PLAYLAND-ʙᴏᴛ ᴠ1.0.0</b>"""
+✯ Mʏ Vᴇʀꜱɪᴏɴ: PLAYLAND-ʙᴏᴛ ᴠ1.0.</b>"""
    
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
