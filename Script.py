@@ -1,18 +1,19 @@
 class script(object):  
-    START_TXT = """✨ Hᴇʟʟᴏ {user}.
+    START_TXT = """ʜᴇʟʟᴏ {ᴜꜱᴇʀ} ✨
+ᴍʏ ɴᴀᴍᴇ ɪꜱ {ʙᴏᴛ} ❤️‍🩹
 
-Mʏ Nᴀᴍᴇ Is {bot}.
+☆ ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇꜱ, ꜱᴇʀɪᴇꜱ, ᴀɴɪᴍᴇꜱ ꜰᴏʀ ʏᴏᴜ - ᴊᴜꜱᴛ ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴏʀ ᴊᴏɪɴ ᴏᴜʀ ɢʀᴏᴜᴘ
+☆ ʏᴏᴜ ᴄᴀɴ ꜱᴇᴀʀᴄʜ ꜰɪʟᴇꜱ ʜᴇʀᴇ ᴀʟꜱᴏ 👇
 
-I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ, Series & PDF Fᴏʀ Yᴏᴜ - Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Oʀ Jᴏɪɴ Oᴜʀ Gʀᴏᴜᴘ
-& you can search files here also 👇</b>"""    
+🦋 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : ᴛʀᴏᴘɪᴄ ᴛʏᴘᴇ"""    
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Created By: Sulagna Pradhan
+✯ Created By: S Pradhan
 ✯ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
 ✯ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
-✯ Mʏ Vᴇʀꜱɪᴏɴ: PLAYLAND-BOT V𝟷.𝟶</b>"""
+✯ Mʏ Vᴇʀꜱɪᴏɴ: ᴘʟᴀʏʟᴀɴᴅ-ʙᴏᴛ ᴠ𝟷.𝟶</b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
